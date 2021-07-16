@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-16 02:07:05
+# UPDATED: 2021-07-17 02:06:59
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14461
+# DOMAIN: 14463
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 75452
+# DOMAIN-SUFFIX: 75474
 # IP-CIDR: 241
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 90544
+# TOTAL: 90568
 0001.2waky.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -4943,6 +4943,7 @@ fasadobygg.com
 fashionstune.com
 fast-hack.com
 fast-wordpress-start.com
+fastbusinessleads.com
 fastenglishtalk.net
 fasterfiles.net
 fastfads.com
@@ -4990,7 +4991,6 @@ fbsupercheats.com
 fckedchicken.com
 fcolors.blogspot.com
 fdads.sv.publicus.com
-fdjkfd.bneaa.cn
 fecabook.redirectme.net
 fecebook.com
 federaltaxagent.com
@@ -5688,6 +5688,7 @@ gameslegion.com
 gamesoftempire.com
 gamespeak.net
 gamesplaces.com
+gamespothacks.com
 gamespress.net
 gamesps4free.com
 gamessteam.com
@@ -5789,6 +5790,7 @@ gerardoseuropeanbakery.com
 germes-trans.com
 gerozetace.com
 gershonconsulting.com
+get-avast.com
 get-cracked.com
 get-free-traffic-now.com
 get-hack.com
@@ -6182,7 +6184,6 @@ h-adachi.org
 h-villamotel.com
 h.hello-game.cn
 h.hollywood.com
-h1.xysibu.cn
 h3ds4.maconslab.com
 h5.7vyou.com
 h5.app.intl.miui.com
@@ -6638,7 +6639,6 @@ hungergame.com
 hunshop.natureflower.com
 hunterstyle24.com
 huntingknivesreviews.com
-huongchien.com
 hupsteel.com
 hustlervip.net
 hustoon.over-blog.com
@@ -7903,7 +7903,6 @@ liteautogreatest.cn
 liteautotop.cn
 litebackup.com
 litec-fr.com
-litefreedom.com
 literalseduction.net
 litetopfindworld.cn
 littlelories.com
@@ -10985,6 +10984,7 @@ sdcurepge.000webhostapp.com
 sdk.accountkit.com
 sdk.apptimize.com
 sdk.eqmob.com
+sdkangjie.com
 sdtld.net
 seal.ranking.com
 seal.validatedsite.com
@@ -11976,7 +11976,6 @@ store.exelium.net
 store.malaysia-it.com
 store.planet-tachyon.com
 storestteampowered.com
-storm-hacks.com
 stormxtoken.com
 storrntoken.com
 stoves.bioenergylists.org
@@ -12335,6 +12334,7 @@ templerun2.newzgames.com
 templerunforpc.com
 templesophia.org
 tendersource.com
+tenerseguro.com
 tengofoxfiles.com
 tennerlist.com
 tenniscostadelsol.com
@@ -12906,6 +12906,7 @@ tubbing.net
 tube-xnxx.com
 tubedspots.com
 tubemoviez.com
+tucumanga.com
 tudumightyjetsfc.com
 tukuterus.com
 tumbl.viphacks.net
@@ -13121,6 +13122,7 @@ uptodatecontent.net
 uptodatemovie.com
 upwardcall.net
 uqoboyvqsqpy.com
+urbancheats.com
 urbanclaire.com
 urbanenergyci.com
 urbanityadnetwork.com
@@ -14087,7 +14089,6 @@ xhamstertube.com
 xhqsysp.com
 xhvhisywkvha.com
 xiamenoa.com
-xiamiss.wap.xsbiquge.com
 xianyicao.net
 xiaocen.com
 xiaojinqipai.com
@@ -14183,6 +14184,7 @@ xravengames.com
 xronize.com
 xs.mochiads.com
 xsso.anbtr.com
+xswbmktpgcwcud.com
 xtainment.net
 xtrafficplus.com
 xuejieku.com
@@ -18231,6 +18233,7 @@ zzz.clickbank.net
 .acs86.com
 .acsbap.com
 .acscdn.com
+.acstat.com
 .acsystem.wasu.cn
 .acsystem.wasu.tv
 .act-on.ioactive.com
@@ -19923,6 +19926,7 @@ zzz.clickbank.net
 .admother.com
 .admotion.com.ar
 .admoxi.com
+.admozartxml.com
 .admp.io
 .adms.physorg.com
 .admsapi.businessweekly.com.tw
@@ -20114,6 +20118,7 @@ zzz.clickbank.net
 .adp.homes.co.jp
 .adp.s8bbs.com
 .adp1.cnool.net
+.adp13a.com
 .adp4wb.ru
 .adpacks.com
 .adpai.thepaper.cn
@@ -22537,6 +22542,7 @@ zzz.clickbank.net
 .advancedtracker.appspot.com
 .advancelocal-adapter-image-uploads.s3.amazonaws.com
 .advancenative.com
+.advancepak.com
 .advancets.org
 .advancing-technology.com
 .advangelists.com
@@ -24499,6 +24505,7 @@ zzz.clickbank.net
 .analytics.tiktok.com
 .analytics.tintuc.vn
 .analytics.tio.ch
+.analytics.tmonews.com
 .analytics.tnt-tv.pl
 .analytics.tntdrama.com
 .analytics.tool.lu
@@ -25503,6 +25510,7 @@ zzz.clickbank.net
 .apyuelang.com
 .aq.prices25.com
 .aq360.club
+.aqc.gucheng.com
 .aqccc.com
 .aqcmri.xyz
 .aqdawf.ccm.net
@@ -28498,6 +28506,7 @@ zzz.clickbank.net
 .blogrankers.com
 .blogranking.net
 .blogreaderproject.com
+.blogroll.click
 .blogroll.livedoor.net
 .blogscounter.com
 .blogsontop.com
@@ -31123,6 +31132,7 @@ zzz.clickbank.net
 .checkmygeo.com
 .checkoutfree.com
 .checkpost.club
+.checkreliableupdatinglatest.info
 .checkru.net
 .checkstat.nl
 .checkupgrade24.thebigforeverupgrades.space
@@ -32393,7 +32403,6 @@ zzz.clickbank.net
 .codata.ru
 .code-server.biz
 .code.51sotu.com
-.code.acstat.com
 .code.ainsyndication.com
 .code.barrior.online
 .code.barrior.ru
@@ -32419,6 +32428,7 @@ zzz.clickbank.net
 .codeadnetwork.com
 .codebiogblog.com
 .codedexchange.com
+.codedpigzed.cam
 .codeenter.ru
 .codeexplain.com
 .codefund.app
@@ -33807,6 +33817,7 @@ zzz.clickbank.net
 .cqbaitong.cn
 .cqcounter.com
 .cqdjhj.cn
+.cqdzjc.com
 .cqerbihou.com
 .cqfangduan.com
 .cqftonline.com
@@ -34297,6 +34308,7 @@ zzz.clickbank.net
 .customer.heartinternet.co.uk
 .customer.io
 .customerconversio.com
+.customerevents.netflix.com
 .customeriomail.codecademy.com
 .customerlabs.co
 .customerscreensavers.com
@@ -35646,6 +35658,7 @@ zzz.clickbank.net
 .ddns.ne
 .ddomb.com
 .ddomm.com
+.ddot.xyz
 .ddpaowanji.com
 .ddpxhq.cn
 .ddrrccck.m.qxs.la
@@ -38529,6 +38542,7 @@ zzz.clickbank.net
 .egyveleg.com
 .eharmony.com.au
 .ehd.baike.com
+.ehfgifjjhdaejjajacj.ru
 .ehg.fedex.com
 .ehnjtmqchrub.com
 .ehntqzv1apeizca.ru
@@ -38777,6 +38791,7 @@ zzz.clickbank.net
 .elsad.tw
 .elsbfby.com
 .elsetormentshower.com
+.elsiehoney.com
 .elsupposit.club
 .eltex.co.jp
 .elthamely.com
@@ -38784,6 +38799,7 @@ zzz.clickbank.net
 .eluhep.bosco.ru
 .eluxer.net
 .elvidro.ru
+.elvirahedwig.com
 .elvx.top
 .elwraek.xyz
 .elyconsisterj.club
@@ -42943,6 +42959,7 @@ zzz.clickbank.net
 .get24update.link4all.info
 .get3.adobe.com
 .get35.com
+.get4click.ru
 .get8bit.com
 .getacool100.com
 .getacool500.com
@@ -45511,7 +45528,6 @@ zzz.clickbank.net
 .hit-star.ru
 .hit.123c.vn
 .hit.8digits.com
-.hit.acstat.com
 .hit.bg
 .hit.copesa.cl
 .hit.darmoweliczniki.pl
@@ -49108,6 +49124,7 @@ zzz.clickbank.net
 .jeerszitstoke.com
 .jeeshapi.net
 .jeetyetmedia.com
+.jehobsee.com
 .jehudf.com
 .jeinvegpool.com
 .jeisl.com
@@ -55633,6 +55650,7 @@ zzz.clickbank.net
 .meds.avycaz.com
 .meds.viibryd.com
 .medshowtiz.ru
+.medtargetsystem.com
 .medtiz.com
 .medusa.reklamlab.com
 .medusasailor.com
@@ -59647,6 +59665,7 @@ zzz.clickbank.net
 .niklesrov.com
 .nil.naver.com
 .niledestratherg.club
+.nilreels.com
 .niltibse.net
 .niltutch.com
 .nim.qiyukf.com
@@ -61625,6 +61644,7 @@ zzz.clickbank.net
 .oodsotso.com
 .oogala.com
 .oogneenu.net
+.oohingjap.com
 .oohxa.xyz
 .ooiqvr.bayer.jp
 .ookedapp.club
@@ -71553,6 +71573,7 @@ zzz.clickbank.net
 .simplyhired.com
 .simplyjmp.com
 .simplymeasured.com
+.simpunok.com
 .simrubwan.com
 .simvinvo.com
 .sin1.geoadnxs.com
@@ -78991,6 +79012,7 @@ zzz.clickbank.net
 .tooasthmaloose.com
 .toodlepork.com
 .toofanshadid.com
+.tookawie.com
 .tool-site.com
 .tool.acces-vod.com
 .tool.btrabbit.la
@@ -81132,6 +81154,7 @@ zzz.clickbank.net
 .trofvido.com
 .trombocrack.com
 .trompaillames.xyz
+.troncomelets.com
 .tronglyre.club
 .tropicalos.com
 .tropiccritics.com
@@ -84003,6 +84026,7 @@ zzz.clickbank.net
 .vstat.v.blog.sohu.com
 .vstats.co
 .vstats.digitaltrends.com
+.vstzen.com
 .vsu2jbpvgx3m.com
 .vsvihsib.com
 .vsxet.com
